@@ -61,3 +61,13 @@ If you're getting started and need assistance or face any bugs, join our active 
 and many more, including code architecture and reusability.
 
 ## <a name="images">🏞️ Images</a>
+
+<img width="1440" alt="Screenshot 2024-04-27 at 6 07 23 PM" src="https://github.com/nitzynz/Zoom_Clone/assets/30779767/1532f65e-d3b5-48b1-bca1-1cab55a01ebe">
+
+<img width="1440" alt="Screenshot 2024-04-27 at 6 07 07 PM" src="https://github.com/nitzynz/Zoom_Clone/assets/30779767/963bb201-55ae-4175-a9c9-553f24c4a9d0">
+
+<img width="1440" alt="Screenshot 2024-04-27 at 6 06 19 PM" src="https://github.com/nitzynz/Zoom_Clone/assets/30779767/c0a726d3-71f6-4ada-8a31-724f48e3b378">
+
+<img width="1440" alt="Screenshot 2024-04-27 at 6 06 58 PM" src="https://github.com/nitzynz/Zoom_Clone/assets/30779767/bc96f97f-b6de-4d8d-ad7d-fd4d09f691b3">
+
+
