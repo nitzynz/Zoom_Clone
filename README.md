@@ -62,7 +62,7 @@ and many more, including code architecture and reusability.
 
 ## <a name="images">🏞️ Images</a>
 
-<img width="1440" alt="Screenshot 2024-04-27 at 6 07 23 PM" src="https://github.com/nitzynz/Zoom_Clone/assets/30779767/1532f65e-d3b5-48b1-bca1-1cab55a01ebe">
+<img width="1440" alt="Screenshot 2024-04-27 at 6 26 56 PM" src="https://github.com/nitzynz/Zoom_Clone/assets/30779767/e6f41a41-72e2-43d7-b659-59c54acd7571">
 
 <img width="1440" alt="Screenshot 2024-04-27 at 6 07 07 PM" src="https://github.com/nitzynz/Zoom_Clone/assets/30779767/963bb201-55ae-4175-a9c9-553f24c4a9d0">
 
